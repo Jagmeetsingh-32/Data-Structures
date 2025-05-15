@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Binary search using mid
 public class Binary_Search {
     public static void main(String[] args) {
         int[] arr={2,3,6,8,12,15,23,55,98,102,133,145};

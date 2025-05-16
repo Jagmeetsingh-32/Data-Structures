@@ -8,8 +8,7 @@ public class Insertion_sort {
                 arr[j+1]=arr[j];
                 j--;
             }
-            arr[j+1]=key;
-             
+            arr[j+1]=key;     
         }
 
         for(int i=0;i<arr.length;i++){

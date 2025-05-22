@@ -27,6 +27,7 @@ public class Merge_Sort {
                 j++;
             }
         }
+        
         while (i<left.length) {
             arr[k]=left[i];
             i++;k++;

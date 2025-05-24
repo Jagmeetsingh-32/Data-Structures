@@ -15,5 +15,5 @@ int main(){
     head=new Node(15);
     cout<<head->data<<endl;
     cout<<head->next;
-    cout<<"hello..";
+    
 }

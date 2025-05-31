@@ -12,6 +12,7 @@ class Node{
     }
 };
 
+
 Node*Binary_Tree(int a){
     if(a==-1){
         return NULL;

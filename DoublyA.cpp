@@ -11,6 +11,7 @@ class Node{
     }
 };
 
+
 int main(){
     Node*Head=NULL;
     Node*Tail=NULL;

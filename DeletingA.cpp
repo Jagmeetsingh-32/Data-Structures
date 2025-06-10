@@ -9,6 +9,7 @@ class Node{
         next=NULL;
     }
 };
+
 int main(){
     Node*Head=NULL,*Tail=NULL;
     for(int i=1;i<6;i++){
